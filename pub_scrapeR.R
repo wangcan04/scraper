@@ -1,5 +1,5 @@
 #set local directory, this will contain downloaded files. 
-setwd("D:/courses/it4bi/semester3-ECP/VA/assignment_1/")
+setwd("D:/courses/VA/assignment_1/")
 
 #initiate params
 vispubdata_root <- 'https://www.lri.fr/~isenberg/VA/vispubdata'
